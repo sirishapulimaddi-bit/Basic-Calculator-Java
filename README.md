@@ -1,13 +1,13 @@
 # Basic-Calculator-Java
 Menu-driven calculator with 6 operators in java.
 
-##Features 
+## Features 
 -4 Basic Operations:+,-,/,*
 -Bonus: Square Root and Power using Math class
 -Invalid input handling
 -Loop until user chooses to exit
 
-##concepts udes
+##concepts used
 -Scanner,switch case,do-while loop
 -Math.sqrt() and Math.pow()
 
