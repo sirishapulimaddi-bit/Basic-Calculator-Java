@@ -7,10 +7,10 @@ Menu-driven calculator with 6 operators in java.
 -Invalid input handling
 -Loop until user chooses to exit
 
-##concepts used
+##concepts Used
 -Scanner,switch case,do-while loop
 -Math.sqrt() and Math.pow()
 
-##How to run
+## How to run
 javac Calculator.java
 java Calculator
